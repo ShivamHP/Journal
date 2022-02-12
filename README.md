@@ -12,5 +12,6 @@ Run the following commands to get the app running in your machine!
 ```sh
 git clone https://github.com/ShivamPachchigar14112/Journal.git
 cd journal
+flutter pub get
 flutter run
 ```
