@@ -10,7 +10,7 @@ This app is made for the sole purpose of learning flutter app development, but i
 Run the following commands to get the app running in your machine!
 
 ```sh
-git clone https://github.com/ShivamPachchigar14112/Journal.git
+git clone https://github.com/ShivamHP/Journal.git
 cd journal
 flutter pub get
 flutter run
